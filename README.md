@@ -1,13 +1,6 @@
 # 🧠 TravelAround AI — Intelligent Group Travel Planning Platform
 
-<div align="center">
 
-![TravelAround AI](https://img.shields.io/badge/TravelAround-AI-blue)
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-green)
-![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen)
-![React](https://img.shields.io/badge/React-18.x-61dafb)
-![AI Powered](https://img.shields.io/badge/AI-Powered-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ### ✈️ Plan Together. Decide Smarter. Travel Better.
 
